@@ -1,0 +1,23 @@
+src/content/partials/networking-services/reference/gre-ipsec-tunnels.mdx
+  1f239789446975c4 197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "8707e31b56b4f2001ecd30eb870d0362597fd49a",
+  "prompts": {
+    "1f239789446975c4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1e86ac139ffexin0R39N8HjCaQ",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Steve Welham",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 9,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
