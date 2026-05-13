@@ -1,0 +1,25 @@
+src/content/changelog/cloudflare-wan/2026-05-11-nat-t-port-500.mdx
+  1f239789446975c4 10
+src/content/partials/networking-services/reference/gre-ipsec-tunnels.mdx
+  1f239789446975c4 197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "de020fb1b62480ed29731245ab27664c029921b5",
+  "prompts": {
+    "1f239789446975c4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_1e86ac139ffexin0R39N8HjCaQ",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Steve Welham",
+      "messages": [],
+      "total_additions": 2,
+      "total_deletions": 2,
+      "accepted_lines": 2,
+      "overriden_lines": 0
+    }
+  }
+}
